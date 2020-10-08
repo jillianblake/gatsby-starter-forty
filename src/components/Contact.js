@@ -42,15 +42,15 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
                         <h3>Addresses</h3>
-                        <span>Mailing Address<br />
+                        <span><b>Mailing Address</b><br />
                             1727 King St., Ste 300<br />
                         Alexandria, VA 22314<br />
                         </span><br />
-<span>Physical Address-Alexandria
+<span><b>Physical Address-Alexandria</b><br />
                             1517 King St.<br />
                         Alexandria, VA 22314<br />
                        </span><br />
-<span>Physical Address-Baltimore #5432<br />
+<span><b>Physical Address-Baltimore </b><br />
                         10 E. North Avenue
                         Baltimore, MD 21218<br />
                         </span>
