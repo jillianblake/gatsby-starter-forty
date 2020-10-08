@@ -11,7 +11,7 @@ import pic10 from '../assets/images/pic10.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>Landing - Forty by HTML5 UP</title>
+            <title>About Us</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 
@@ -23,7 +23,7 @@ const Landing = (props) => (
                     <header className="major">
                         <h2>Sed amet aliquam</h2>
                     </header>
-                    <p>Blake Immigration Law, PLLC.</p>
+                    <p>WE ARE A GROUP OF HARD-WORKING LEGAL PROFESSIONALS WHO HANDLE EACH CASE WITH COMPASSION, DILIGENCE, AND INTEGRITY.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
