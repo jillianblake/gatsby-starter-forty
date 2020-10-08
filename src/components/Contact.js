@@ -51,7 +51,7 @@ const Contact = (props) => (
                         Alexandria, VA 22314<br />
                        </span><br />
 <span><b>Physical Address-Baltimore </b><br />
-                        10 E. North Avenue
+                        10 E. North Avenue <br />
                         Baltimore, MD 21218<br />
                         </span>
                     </div>
